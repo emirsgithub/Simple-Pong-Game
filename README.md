@@ -47,7 +47,7 @@ Pong is a classic arcade game that simulates table tennis. This version features
 
 ## Future Improvements
 - Implement AI opponent for single-player mode
-- Add customizable paddle and ball skins
+- Add customisable paddle and ball skins
 - Include background music and sound effects
 
 ---
